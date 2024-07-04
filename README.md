@@ -32,7 +32,7 @@
 - **Step 5**: Head to the history section to see your previous summary along with the original text.
 - **Step 6**: To download the summaries, click on the "Export as PDF" or "Export as Text" button.
 
-### Web Scraping Feature
+### Web Scraping Feature (Test for this url [Difference between Let,Var and const](https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/)
 - **Step 1**: Paste the URL or write the URL in the text field.
 - **Step 2**: Click on the "Scrape Content" button to start scraping.
 - **Step 3**: The text field on the left side will display the scraped content, which you can modify according to your needs.
