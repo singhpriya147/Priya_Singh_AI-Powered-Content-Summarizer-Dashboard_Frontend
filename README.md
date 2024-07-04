@@ -24,7 +24,7 @@
 - ### Dashboard
 - **Dashboard**: After login, you'll be directed to the dashboard page.
 
-### Long Text Summarizing
+### Long Text Summarizing Feature
 - **Step 1**: Paste the text or write the text in the text field.
 - **Step 2**: Choose the type of summary length you want from the dropdown menu.
 - **Step 3**: Click on the summarize button and **wait for 2 seconds**.
@@ -50,7 +50,7 @@
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/singhpriya147/canvas_craft.git
+    git clone https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend.git
  
     ```
 
@@ -66,4 +66,4 @@ Follow these steps to quickly start the project:
     ```
 
 2. **Access the Application:**
-   Open your web browser and go to `http://localhost:3000` to access the Canvas Craft web app.
+   Open your web browser and go to `http://localhost:3000` to access the app.
