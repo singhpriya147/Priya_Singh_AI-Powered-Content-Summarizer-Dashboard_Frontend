@@ -48,7 +48,7 @@
 ![Screenshot (954)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/0243cca5-06f8-48c2-be7c-25acd7ab1732)
 
 **2-Dashboard page **
-![Screenshot (954)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/0243cca5-06f8-48c2-be7c-25acd7ab1732)
+![Screenshot (946)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/b43d1f08-1e67-4ada-9110-e4005070eca5)
 
 **3- Text summarization feature **
 ![Screenshot (947)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/d5fdef10-e243-4eca-81a0-af7bc033678c)
