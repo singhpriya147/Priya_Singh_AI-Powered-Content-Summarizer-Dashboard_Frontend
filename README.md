@@ -47,11 +47,18 @@
 **1- Login Page**
 ![Screenshot (954)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/0243cca5-06f8-48c2-be7c-25acd7ab1732)
 
-**2-Dashboard page **
+**2-Dashboard page**
 ![Screenshot (946)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/b43d1f08-1e67-4ada-9110-e4005070eca5)
 
-**3- Text summarization feature **
+**3- Text summarization feature**
 ![Screenshot (947)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/d5fdef10-e243-4eca-81a0-af7bc033678c)
+
+**4- Text summary loading/ summarizing**
+![Screenshot (948)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/3ff1cd45-86b5-47e3-bffc-349f28d78575)
+**5-Text Summary(Predefined)**
+
+![Screenshot (949)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/9b272439-2fa6-4fc3-892d-9724d8f441c4)
+
 
 
 ## Running the project
