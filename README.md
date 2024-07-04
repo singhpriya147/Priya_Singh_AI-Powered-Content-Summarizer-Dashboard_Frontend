@@ -21,28 +21,27 @@
 ## How to use the Project
 
 - **Login** : Login by simply putting your name .
-- **Dashboard** : After login you'll be directed to dashboard page.
-      -**Long text summarizing**
-      -**Step1** :Paste the text or write the text in text filed .
-      -**Step2** :choose the type of summary lenght you want from dropdown menu.
-  
-      -**Step3** :Now click on summarize button and **wait for 2sec**.
-  
-      -**Step4** :Voila ! you'll get the summarized text (**Predefined**).
-  
-      -**Step5** :Now head to the history section to see your previous summary along with original text.
-  
-      -**Step6** :Now if you want to download the summaries then click on "Export as pdf" or "Export as text" button .
-  
-     -**web scrapping  feature**
-      -**Step 1** :Paste the url or write the url in text filed .
-      -**Step 2** :Click on "Scrape Content" button to start scrapping.
-      -**Step 3** :Now go see in you text field on left side , it will get all the scrapped content and modify it according to your need .
-      -**Step 4** :choose the type of summary lenght you want from dropdown menu.
-      -**Step 5** :Now click on summarize button and **wait for 2sec**.
-      -**Step 6** :Voila ! you'll get the summarized text (**Predefined**).
-      -**Step 7** :Now head to the history section to see your previous summary along with original text.
-      -**Step 8** :Now if you want to download the summaries then click on "Export as pdf" or "Export as text" button .
+- ### Dashboard
+- **Dashboard**: After login, you'll be directed to the dashboard page.
+
+### Long Text Summarizing
+- **Step 1**: Paste the text or write the text in the text field.
+- **Step 2**: Choose the type of summary length you want from the dropdown menu.
+- **Step 3**: Click on the summarize button and **wait for 2 seconds**.
+- **Step 4**: Voila! You'll get the summarized text (**Predefined**).
+- **Step 5**: Head to the history section to see your previous summary along with the original text.
+- **Step 6**: To download the summaries, click on the "Export as PDF" or "Export as Text" button.
+
+### Web Scraping Feature
+- **Step 1**: Paste the URL or write the URL in the text field.
+- **Step 2**: Click on the "Scrape Content" button to start scraping.
+- **Step 3**: The text field on the left side will display the scraped content, which you can modify according to your needs.
+- **Step 4**: Choose the type of summary length you want from the dropdown menu.
+- **Step 5**: Click on the summarize button and **wait for 2 seconds**.
+- **Step 6**: Voila! You'll get the summarized text (**Predefined**).
+- **Step 7**: Head to the history section to see your previous summary along with the original text.
+- **Step 8**: To download the summaries, click on the "Export as PDF" or "Export as Text" button.
+      
   
 ## ScreenShot
 
