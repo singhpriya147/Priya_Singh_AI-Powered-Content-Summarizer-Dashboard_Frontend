@@ -24,7 +24,6 @@
 - **Dashboard** : After login you'll be directed to dashboard page.
       -**Long text summarizing**
       -**Step1** :Paste the text or write the text in text filed .
-  
       -**Step2** :choose the type of summary lenght you want from dropdown menu.
   
       -**Step3** :Now click on summarize button and **wait for 2sec**.
