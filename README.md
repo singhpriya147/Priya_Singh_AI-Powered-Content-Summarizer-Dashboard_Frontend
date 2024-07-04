@@ -62,8 +62,13 @@
 ![Screenshot (950)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/c6985457-db09-497a-a5cb-bc3a7471c576)
 
 **7-Web scraping feature**
-![Screenshot (951)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/446358df-8a2c-4110-9c46-ab87024352fc)
+![Screenshot (951)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/48a3aad2-2594-4199-9d1d-d77301f4ef6c)
 
+**8-web scraping original contet(Editable before summarizing)**
+![Screenshot (952)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/5ac02e9b-c008-4d64-895c-0a934fcf5109)
+
+**9-Summary of Web scrapped content**
+![Screenshot (953)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/de1a6e30-e42f-4c6c-8674-05ac2bbaa9f7)
 
 ## Running the project
 ### Installation
