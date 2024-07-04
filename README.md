@@ -23,12 +23,18 @@
 - **Login** : Login by simply putting your name .
 - **Dashboard** : After login you'll be directed to dashboard page.
       -**Long text summarizing**
-      -**Step 1** :Paste the text or write the text in text filed .
-      -**Step 2** :choose the type of summary lenght you want from dropdown menu.
-      -**Step 3** :Now click on summarize button and **wait for 2sec**.
-      -**Step 4** :Voila ! you'll get the summarized text (**Predefined**).
-      -**Step 5** :Now head to the history section to see your previous summary along with original text.
-      -**Step 6** :Now if you want to download the summaries then click on "Export as pdf" or "Export as text" button .
+      -**Step1** :Paste the text or write the text in text filed .
+  
+      -**Step2** :choose the type of summary lenght you want from dropdown menu.
+  
+      -**Step3** :Now click on summarize button and **wait for 2sec**.
+  
+      -**Step4** :Voila ! you'll get the summarized text (**Predefined**).
+  
+      -**Step5** :Now head to the history section to see your previous summary along with original text.
+  
+      -**Step6** :Now if you want to download the summaries then click on "Export as pdf" or "Export as text" button .
+  
      -**web scrapping  feature**
       -**Step 1** :Paste the url or write the url in text filed .
       -**Step 2** :Click on "Scrape Content" button to start scrapping.
