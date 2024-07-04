@@ -44,6 +44,8 @@
       
   
 ## ScreenShot
+**1- Login Page**
+![Screenshot (954)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/0243cca5-06f8-48c2-be7c-25acd7ab1732)
 
 ## Running the project
 ### Installation
