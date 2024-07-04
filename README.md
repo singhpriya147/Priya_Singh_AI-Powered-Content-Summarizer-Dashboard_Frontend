@@ -61,6 +61,9 @@
 **6-History**
 ![Screenshot (950)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/c6985457-db09-497a-a5cb-bc3a7471c576)
 
+**7-Web scraping feature**
+![Screenshot (951)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/446358df-8a2c-4110-9c46-ab87024352fc)
+
 
 ## Running the project
 ### Installation
