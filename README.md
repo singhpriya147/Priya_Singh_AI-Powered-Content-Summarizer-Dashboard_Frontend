@@ -58,7 +58,8 @@
 **5-Text Summary(Predefined)**
 
 ![Screenshot (949)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/9b272439-2fa6-4fc3-892d-9724d8f441c4)
-
+**6-History**
+![Screenshot (950)](https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend/assets/72970648/c6985457-db09-497a-a5cb-bc3a7471c576)
 
 
 ## Running the project
