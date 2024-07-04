@@ -1,0 +1,40 @@
+.dashboard-wrapper{
+ background-color:blanchedalmond;
+
+
+}
+
+.text-area{
+
+ display: flex;
+gap:4rem;
+align-items: center;
+justify-content: center;
+}
+.scrapping{
+ display: flex;
+ flex-direction: column;
+ gap:2rem;
+}
+.scrapping-option,.summary-length{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ gap:1rem;
+ background-color: rgb(238, 219, 193);
+ margin:1rem;
+}
+.summary-section{
+
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ gap:2rem;
+}
+.export-btn{
+ display: flex;
+ gap: 1rem;
+}
+

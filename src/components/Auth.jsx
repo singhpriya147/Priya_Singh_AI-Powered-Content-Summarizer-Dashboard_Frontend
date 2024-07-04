@@ -1,7 +1,7 @@
-// src/components/Auth.js
+
 import  { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
+import '../styles/Auth.css'
 const Auth = () => {
   const [username, setUsername] = useState('');
   const navigate = useNavigate();
@@ -13,15 +13,17 @@ const Auth = () => {
   };
 
   return (
-    <div>
-      <h2>Login</h2>
-      <input
-        type='text'
-        value={username}
-        onChange={(e) => setUsername(e.target.value)}
-        placeholder='Enter username'
-      />
-      <button onClick={handleLogin}>Login</button>
+    <div className='auth'>
+      <div className='auth-main'>
+        <h2>Login</h2>
+        <input
+          type='text'
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+          placeholder='Enter username'
+        />
+        <button onClick={handleLogin}>Login</button>
+      </div>
     </div>
   );
 };
