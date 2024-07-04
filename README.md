@@ -4,7 +4,7 @@
 **This assignment used the predefined summaries based on the user selection lenght (short,medium,long)**
 ## Features
 
-- **Authentication**: Integratea mocked user authentication via local storage.
+- **Authentication**: Integrate a mocked user authentication via local storage.
 - **Scrapping Tool**: Integration with a mock AI summarization API with predefine text and delyed for 2sec to mimic the api fetching operation
 - **History**: Dashborad contain the history section which shows the "original content" and "AI summarized content" with timestamp for individual user.Since history will be stored in local storage.
 - **Export**: You can export the summarized content in pdf format and text format.
