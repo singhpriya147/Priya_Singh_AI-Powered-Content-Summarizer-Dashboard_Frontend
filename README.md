@@ -87,7 +87,8 @@
 Follow these steps to quickly start the project:
 1. **Run the Application:**
     ```bash
-    npm start
+    npm run dev
+  
     ```
 
 2. **Access the Application:**
